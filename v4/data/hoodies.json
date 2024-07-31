@@ -1,0 +1,105 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Grow Your Game",
+      "thumbnail": "/Sleepysleve/assets/product-images/350 GSM_60_ Cotton 40_ Poly_Pre-Shrunk_Double Hood_Super Combed Cotton_Cross Neck(HEIC).png",
+      "price": 999.00,
+      "ex_price": 1200.00,
+      "discount_percentage": 16.75,
+      "tags": ["Trending 🔥"],
+      "filter": ["featured", "best selling"],
+      "date_added": "2024-04-10",
+      "images": [
+
+                "/Sleepysleve/assets/product-images/350 GSM_60_ Cotton 40_ Poly_Pre-Shrunk_Double Hood_Super Combed Cotton_Cross Neck(HEIC)_1.png"
+                
+
+      ],
+      "description":  
+ 
+
+"Grow your game | 240 GSM | 100% Cotton Material | Pre-Shrunk | Double Stitching |Super Combed Cotton | No Colour Fading. ",
+      "labels": {
+        "color": "blue",
+        "category": "Hoodies",
+        "brand": "Sleepysleve",
+        "material": "cotton"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Pixels Hoodies",
+      "thumbnail": "/Sleepysleve/assets/product-images/Pixels_Hoodie_350 GSM_60_ Cotton 40_ Poly_Pre-Shrunk_Double Hood_Super Combed Cotton_Cross Neck(HEIC).png",
+      "price": 999,
+      "ex_price": 1599,
+      "discount_percentage": 28.58,
+      "tags": ["Best Selling"],
+            "filter": ["featured"],
+            "date_added": "2023-04-10",
+      "images": [
+        "/Sleepysleve/assets/product-images/Pixels_Hoodie_350 GSM_60_ Cotton 40_ Poly_Pre-Shrunk_Double Hood_Super Combed Cotton_Cross Neck(HEIC)_1.png"
+      ],
+      "description": "Pixels Hoodie 350 GSM 60 % Cotton 40 % Poly Pre-Shrunk Double Hood Super Combed Cotton Cross Neck",
+      "labels": {
+        "color": "black",
+        "category": "Hoodies",
+        "brand": "Sleepysleve",
+        "material": "Cotton"
+      }
+    }
+ 
+   , 
+       {
+      "id": 3,
+      "name": "Lost Boy Hoodie",
+      "thumbnail": "/Sleepysleve/assets/product-images/Lost Boy_350 GSM_60_ Cotton 40_ Polyester _Pre-Shrunk_Double Hood_Super Combed Cotton_Cross Neck(HEIC).png",
+      "price": 19.99,
+      "ex_price": 29.99,
+      "discount_percentage": 33.34,
+      "tags": ["best product"],
+      "filter": ["featured", "best selling"],
+      "date_added": "2024-04-10",
+      "images": [
+        "images/tshirt_1.jpg",
+        "images/tshirt_2.jpg",
+        "images/tshirt_3.jpg"
+      ],
+      "description": "Comfortable and stylish T-Shirt for everyday wear.",
+      "labels": {
+        "color": "blue",
+        "category": "shirts",
+        "brand": "Brand C",
+        "material": "cotton"
+      }
+    }, 
+        {
+      "id": 4,
+      "name": "Marcus Hoodie",
+      "thumbnail": "/Sleepysleve/assets/product-images/Marcos _350 GSM_60_ Cotton 40_ Polyester _Pre-Shrunk_Double Hood_Super Combed Cotton_Cross Neck_._._.__reels _fyp _colourcombinations _reelsinstagram__streetwear _fashionreels _oversizedtshirt__whatibought _explorefashion _streetstyleo(HEIC).png",
+      "price": 799.00,
+      "ex_price": 899.99,
+      "discount_percentage": 11.2,
+      "tags": [""],
+      "filter": ["featured", "best selling"],
+      "date_added": "2024-04-10",
+      "images": [
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPH8FlnA19lPYJ_WHGAhGYwG6731N9mL9h_w&usqp=CAU", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJasJki4V0xN-BP1HAZmAqMB5VfMOdQC5C_Q&usqp=CAU", " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtI66kNM1pImD-jnkx82rFg--qHwhNcD4phw&usqp=CAU", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWw93vQvzaLwODP8aTHaqGkUH1B6r1na61fA&usqp=CAU"
+      ],
+      "description": "Grow your game | 240 GSM | 100% Cotton Material | Pre-Shrunk | Double Stitching |Super Combed Cotton | No Colour Fading. ",
+      "labels": {
+        "color": "black",
+        "category": "hoodies",
+        "brand": "Sleepysleve",
+        "material": "cotton"
+      }
+    }
+    
+
+    
+    
+    
+    
+    
+  ]
+}

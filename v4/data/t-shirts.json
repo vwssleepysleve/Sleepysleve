@@ -1,0 +1,90 @@
+{
+  "products": [
+            {
+      "id": 1,
+      "name": "Travis Scott T-shirt",
+      "thumbnail": "/Sleepysleve/assets/product-images/240 GSM _100_ Cotton Material_Pre-Shrunk_Double Stitching_Super Combed Cotton_No Colour Fading(HEIC).png",
+      "price": 699.99,
+      "ex_price": 879,
+      "discount_percentage": 8.7,
+      "tags": ["New"],
+      "filter": ["featured", "best selling"],
+      "date_added": "2024-04-10",
+      "images": [
+        "/Sleepysleve/assets/product-images/240 GSM _100_ Cotton Material_Pre-Shrunk_Double Stitching_Super Combed Cotton_No Colour Fading(HEIC)_1.png"
+      ],
+      "description": "Comfortable and stylish T-Shirt for everyday wear.",
+      "labels": {
+        "color": "White",
+        "category": "T-shirts",
+        "brand": "Sleepysleve",
+        "material": "cotton"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Enternal Bliss T-shirt",
+      "thumbnail": "/Sleepysleve/assets/product-images/ETERNAL BLISS_•180 GSM and 240 GSM _•100_ Cotton Material_•Pre-Shrunk_•Double Stitching_•Super Combed Cotton_•No Colour Fading__•What_s the difference in 180 GSM and 240 GSM____The main difference between 180gsm and 240gs(HEIC).png",
+      "price": 700.00,
+      "ex_price": 978,
+      "discount_percentage": 18.34,
+      "tags": [""],
+      "filter": ["featured", "best selling"],
+      "date_added": "2024-04-10",
+      "images": [
+        "/Sleepysleve/assets/product-images/ETERNAL BLISS_•180 GSM and 240 GSM _•100_ Cotton Material_•Pre-Shrunk_•Double Stitching_•Super Combed Cotton_•No Colour Fading__•What_s the difference in 180 GSM and 240 GSM____The main difference between 180gsm and 240(HEIC)_.png"
+      ],
+      "description": "Comfortable and stylish T-Shirt for everyday wear.",
+      "labels": {
+        "color": "blue",
+        "category": "shirts",
+        "brand": "Brand C",
+        "material": "cotton"
+      }
+    }, 
+    {
+      "id": 3,
+      "name": "Grow Your Game T-shirt",
+      "thumbnail": "/Sleepysleve/assets/product-images/Grow your game _240 GSM _100_ Cotton Material_Pre-Shrunk_Double Stitching_Super Combed Cotton_No Colour Fading(HEIC).png",
+      "price": 700.00,
+      "ex_price": 978,
+      "discount_percentage": 18.34,
+      "tags": ["Best Product"],
+      "filter": ["featured", "best selling"],
+      "date_added": "2024-04-10",
+      "images": [
+            "/Sleepysleve/assets/product-images/Grow your game _240 GSM _100_ Cotton Material_Pre-Shrunk_Double Stitching_Super Combed Cotton_No Colour Fading(HEIC)_1.png"
+          ],
+      "description": "Comfortable and stylish T-Shirt for everyday wear.",
+      "labels": {
+        "color": "blue",
+        "category": "shirts",
+        "brand": "Brand C",
+        "material": "cotton"
+      }
+    }, 
+    {
+      "id": 44,
+      "name": "Haven T-shirt",
+      "thumbnail": "/Sleepysleve/assets/product-images/Heaven_180 GSM and 240 GSM _100_ Cotton Material_Pre-Shrunk_Double Stitching_Super Combed Cotton_No Colour Fading___sleepysleve _clothingbrand _streetwear _streetwearindia _veloce _bluorng _farda _printondemand _money(HEIC)_2.png",
+      "price": 750.00,
+      "ex_price": 878,
+      "discount_percentage": 12.34,
+      "tags": ["Trending 🔥"],
+      "filter": ["featured", "best selling"],
+      "date_added": "2024-04-10",
+      "images": [
+            "/Sleepysleve/assets/product-images/Heaven_180 GSM and 240 GSM _100_ Cotton Material_Pre-Shrunk_Double Stitching_Super Combed Cotton_No Colour Fading___sleepysleve _clothingbrand _streetwear _streetwearindia _veloce _bluorng _farda _printondemand _money(HEIC)_3.png", 
+            "/Sleepysleve/assets/product-images/Heaven_180 GSM and 240 GSM _100_ Cotton Material_Pre-Shrunk_Double Stitching_Super Combed Cotton_No Colour Fading___sleepysleve _clothingbrand _streetwear _streetwearindia _veloce _bluorng _farda _printondemand _money(HEIC)_1.png", 
+            "/Sleepysleve/assets/product-images/Heaven_180 GSM and 240 GSM _100_ Cotton Material_Pre-Shrunk_Double Stitching_Super Combed Cotton_No Colour Fading___sleepysleve _clothingbrand _streetwear _streetwearindia _veloce _bluorng _farda _printondemand _money(HEIC).png"
+          ],
+      "description": "Comfortable and stylish T-Shirt for everyday wear.",
+      "labels": {
+        "color": "blue",
+        "category": "shirts",
+        "brand": "Brand C",
+        "material": "cotton"
+      }
+    }
+    ]
+    }
