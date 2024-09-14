@@ -339,6 +339,8 @@ body {
 
 
 
+
+
 #add-to-cart-btn {
     display: block;
     padding: 10px;
@@ -347,9 +349,9 @@ body {
     cursor: pointer;
     margin-top: 10px;
     margin-bottom: 30px;
-    background: #000;
-    color: #fff;
-    border: 1px solid #000;
+    background: white;
+    color:black;
+    border: 1px solid black;
     text-decoration: none;
     font-size: 16px;
     transition: all 0.3s;
@@ -358,9 +360,13 @@ body {
 }
 
 #add-to-cart-btn:hover {
-    background-color: #fff;
-    color: #000;
+    background-color: black;
+    color: white;
 }
+
+
+
+
 
 #add-to-cart-btn.increment-decrement {
     display: flex;
