@@ -29,6 +29,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Function to display product details on the page
     const displayProductDetails = (product) => {
+        const checkoutUrl = product.labels.checkout_url;
+
+    // Update checkout URL in the element
+    document.getElementById('checkout-link').href = checkoutUrl;
+
         // Load the thumbnail as the first image
         const images = [product.thumbnail, ...product.images];
 
