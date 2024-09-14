@@ -407,7 +407,7 @@ document.addEventListener("DOMContentLoaded", function() {
         };
 
         const renderAddToCartButton = () => {
-            addToCartBtn.innerHTML = "Add to Cart";
+            addToCartBtn.innerHTML = "ADD TO CART";
             addToCartBtn.onclick = () => {
                 if (selectedSize) {
                     addToCart(product, selectedSize);
@@ -418,7 +418,7 @@ document.addEventListener("DOMContentLoaded", function() {
         };
 
         const renderGoToCartButton = () => {
-            addToCartBtn.innerHTML = "BUY NOW";
+            addToCartBtn.innerHTML = "GO TO CART";
             addToCartBtn.onclick = () => {
                 window.location.href = "/Sleepysleve/v4/cart.html"; // Redirect to the cart page
             };
