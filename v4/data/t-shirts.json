@@ -1,91 +1,176 @@
 {
   "products": [
-            {
-      "id": 1,
-      "name": "Travis Scott T-shirt",
-      "thumbnail": "/Sleepysleve/assets/product-images/240 GSM _100_ Cotton Material_Pre-Shrunk_Double Stitching_Super Combed Cotton_No Colour Fading(HEIC).png",
-      "price": 699.99,
-      "ex_price": 879,
-      "discount_percentage": 8.7,
-      "tags": ["New"],
-      "filter": ["featured", "best selling"],
-      "date_added": "2024-04-10",
-      "images": [
-        "/Sleepysleve/assets/product-images/240 GSM _100_ Cotton Material_Pre-Shrunk_Double Stitching_Super Combed Cotton_No Colour Fading(HEIC)_1.png"
-      ],
-      "description": "Comfortable and stylish T-Shirt for everyday wear.",
-      "labels": {
-        "color": "White",
-        "category": "T-shirts",
-        "brand": "Sleepysleve",
-        "material": "cotton", 
-          "checkout_url": "https://www.sleepysleve.com/product/240282ac8d26b1725047427"
-      }
-            },
-    {
-      "id": 2,
-      "name": "Enternal Bliss T-shirt",
-      "thumbnail": "/Sleepysleve/assets/product-images/ETERNAL BLISS_•180 GSM and 240 GSM _•100_ Cotton Material_•Pre-Shrunk_•Double Stitching_•Super Combed Cotton_•No Colour Fading__•What_s the difference in 180 GSM and 240 GSM____The main difference between 180gsm and 240gs(HEIC).png",
-      "price": 700.00,
-      "ex_price": 978,
-      "discount_percentage": 18.34,
-      "tags": [""],
-      "filter": ["featured", "best selling"],
-      "date_added": "2024-04-10",
-      "images": [
-        "/Sleepysleve/assets/product-images/ETERNAL BLISS_•180 GSM and 240 GSM _•100_ Cotton Material_•Pre-Shrunk_•Double Stitching_•Super Combed Cotton_•No Colour Fading__•What_s the difference in 180 GSM and 240 GSM____The main difference between 180gsm and 240(HEIC)_.png"
-      ],
-      "description": "Comfortable and stylish T-Shirt for everyday wear.",
-      "labels": {
-        "color": "blue",
-        "category": "shirts",
-        "brand": "Brand C",
-        "material": "cotton"
-      }
-    }, 
-    {
-      "id": 3,
-      "name": "Grow Your Game T-shirt",
-      "thumbnail": "/Sleepysleve/assets/product-images/Grow your game _240 GSM _100_ Cotton Material_Pre-Shrunk_Double Stitching_Super Combed Cotton_No Colour Fading(HEIC).png",
-      "price": 700.00,
-      "ex_price": 978,
-      "discount_percentage": 18.34,
-      "tags": ["Best Product"],
-      "filter": ["featured", "best selling"],
-      "date_added": "2024-04-10",
-      "images": [
-            "/Sleepysleve/assets/product-images/Grow your game _240 GSM _100_ Cotton Material_Pre-Shrunk_Double Stitching_Super Combed Cotton_No Colour Fading(HEIC)_1.png"
-          ],
-      "description": "Comfortable and stylish T-Shirt for everyday wear.",
-      "labels": {
-        "color": "blue",
-        "category": "shirts",
-        "brand": "Brand C",
-        "material": "cotton"
-      }
-    }, 
-    {
-      "id": 44,
-      "name": "Haven T-shirt",
-      "thumbnail": "/Sleepysleve/assets/product-images/Heaven_180 GSM and 240 GSM _100_ Cotton Material_Pre-Shrunk_Double Stitching_Super Combed Cotton_No Colour Fading___sleepysleve _clothingbrand _streetwear _streetwearindia _veloce _bluorng _farda _printondemand _money(HEIC)_2.png",
-      "price": 750.00,
-      "ex_price": 878,
-      "discount_percentage": 12.34,
-      "tags": ["Trending 🔥"],
-      "filter": ["featured", "best selling"],
-      "date_added": "2024-04-10",
-      "images": [
-            "/Sleepysleve/assets/product-images/Heaven_180 GSM and 240 GSM _100_ Cotton Material_Pre-Shrunk_Double Stitching_Super Combed Cotton_No Colour Fading___sleepysleve _clothingbrand _streetwear _streetwearindia _veloce _bluorng _farda _printondemand _money(HEIC)_3.png", 
-            "/Sleepysleve/assets/product-images/Heaven_180 GSM and 240 GSM _100_ Cotton Material_Pre-Shrunk_Double Stitching_Super Combed Cotton_No Colour Fading___sleepysleve _clothingbrand _streetwear _streetwearindia _veloce _bluorng _farda _printondemand _money(HEIC)_1.png", 
-            "/Sleepysleve/assets/product-images/Heaven_180 GSM and 240 GSM _100_ Cotton Material_Pre-Shrunk_Double Stitching_Super Combed Cotton_No Colour Fading___sleepysleve _clothingbrand _streetwear _streetwearindia _veloce _bluorng _farda _printondemand _money(HEIC).png"
-          ],
-      "description": "Comfortable and stylish T-Shirt for everyday wear.",
-      "labels": {
-        "color": "blue",
-        "category": "shirts",
-        "brand": "Brand C",
-        "material": "cotton"
-      }
+          {
+            "id": 1,
+            "name": "Eternal Hopes",
+            "thumbnail": "https://minis-media-assets.swiggy.com/swiggymini/image/upload/IMAGE/3022a373-73df-429a-b66c-2b1c1eff79d8/lKlyaqtbVW0N2Oeyxxg4j",
+            "price": 849,
+            "ex_price": 1099,
+            "discount_percentage": 22,
+            "tags": [],
+            "filter": [],
+            "date_added": "2024-09-15",
+            "images": [
+             "https://minis-media-assets.swiggy.com/swiggymini/image/upload/IMAGE/e8024087-ff1b-4c16-b74e-7994e870aff8/NQtNnVF6-Fr1FNoavpYBv"
+            ],
+            "description": "240 GSM: High-quality, medium-weight fabric that offers durability and comfort.\n\n100% Cotton Material: Made from pure cotton for a soft, breathable feel.\n\nPre-Shrunk: Ensures the garment retains its size and shape after washing.\n\nDouble Stitching: Reinforced stitching for added durability and longevity.\n\nSuper Combed Cotton: Enhanced softness and smoothness for maximum comfort.\n\nNo Colour Fading: Retains vibrant colors wash after wash.",
+            "labels": {
+              "color": "White",
+              "category": "T-shirt",
+              "brand": "SLEEPYSLEVE",
+              "material": "Cotton",
+              "checkout_url": "https://shop.sleepysleve.com/product/240282ac8d26b1725047427"
+            }
+          },
+{
+  "id": 2,
+  "name": "Respect your family",
+  "thumbnail": "https://minis-media-assets.swiggy.com/swiggymini/image/upload/IMAGE/5efcfa17-9c69-40bc-b814-b09263fb1e85/CrLBXtXfiwrWLxfNE8vuy",
+  "price": 849,
+  "ex_price": 1099,
+  "discount_percentage": 22,
+  "tags": [
+    "Trending🔥"
+  ],
+  "filter": [
+    "Best Selling"
+  ],
+  "date_added": "2024-09-01",
+  "images": [
+    "https://minis-media-assets.swiggy.com/swiggymini/image/upload/IMAGE/5326b359-1eb7-438d-890d-c190f4361650/Y7CI8FQwSSSHXyz17CdzT"
+  ],
+  "description": "240 GSM: High-quality, medium-weight fabric that offers durability and comfort.\n\n100% Cotton Material: Made from pure cotton for a soft, breathable feel.\n\nPre-Shrunk: Ensures the garment retains its size and shape after washing.\n\nDouble Stitching: Reinforced stitching for added durability and longevity.\n\nSuper Combed Cotton: Enhanced softness and smoothness for maximum comfort.\n\nNo Colour Fading: Retains vibrant colors wash after wash.",
+  "labels": {
+    "color": "Cream ",
+    "category": "T-shirt",
+    "brand": "SLEEPYSLEVE",
+    "material": "Cotton",
+    "checkout_url": "https://shop.sleepysleve.com/product/240280ec8d1c91725026260"
+  }
+}, 
+  {
+    "id": 3,
+    "name": "Eternal Hopes (Beige)",
+    "thumbnail": "https://minis-media-assets.swiggy.com/swiggymini/image/upload/IMAGE/fb934687-b996-4fa5-9196-dbd7ba7f7297/eyOVDYmrK-xgIRtGBZ50R",
+    "price": 849,
+    "ex_price": 1099,
+    "discount_percentage": 22,
+    "tags": [
+      "Bestseller"
+    ],
+    "filter": [
+      "Featured"
+    ],
+    "date_added": "2024-09-02",
+    "images": [
+      "https://minis-media-assets.swiggy.com/swiggymini/image/upload/IMAGE/e1630122-cb97-48e5-a44d-cf3bcefe7e41/D-8jWSqVDRqLkAK8U33wB"
+    ],
+    "description": "240 GSM: High-quality, medium-weight fabric that offers durability and comfort.\n\n100% Cotton Material: Made from pure cotton for a soft, breathable feel.\n\nPre-Shrunk: Ensures the garment retains its size and shape after washing.\n\nDouble Stitching: Reinforced stitching for added durability and longevity.\n\nSuper Combed Cotton: Enhanced softness and smoothness for maximum comfort.\n\nNo Colour Fading: Retains vibrant colors wash after wash.",
+    "labels": {
+      "color": "  ",
+      "category": "T-shirt",
+      "brand": "SLEEPYSLEVE",
+      "material": "Cotton",
+      "checkout_url": "https://shop.sleepysleve.com/product/2402820c8d1dc1725028718"
     }
+  },  
+        {
+          "id": 4,
+          "name": "Gear 5",
+          "thumbnail": "https://minis-media-assets.swiggy.com/swiggymini/image/upload/IMAGE/237e52f9-8905-4ab0-a620-5bc5ca228291/vC1zvOyk9S9ihqneYxogp-rn-image-picker-lib-temp-d2e83049-b695-42ae-8d2f-b59210154cd0.jpg",
+          "price": 849,
+          "ex_price": 1099,
+          "discount_percentage": 22,
+          "tags": [],
+          "filter": [],
+          "date_added": "2024-09-08",
+          "images": [
+            "https://minis-media-assets.swiggy.com/swiggymini/image/upload/IMAGE/3490cb45-1403-4a96-8ceb-c9d278702160/zxno4BrUUBetWMRj6w50S-rn-image-picker-lib-temp-4ebcbc84-4df0-48ff-b7fa-e445e6226e23.jpg"
+          ],
+          "description": "240 GSM: High-quality, medium-weight fabric that offers durability and comfort.\n\n100% Cotton Material: Made from pure cotton for a soft, breathable feel.\n\nPre-Shrunk: Ensures the garment retains its size and shape after washing.\n\nDouble Stitching: Reinforced stitching for added durability and longevity.\n\nSuper Combed Cotton: Enhanced softness and smoothness for maximum comfort.\n\nNo Colour Fading: Retains vibrant colors wash after wash.",
+          "labels": {
+            "color": "  ",
+            "category": "T-shirt",
+            "brand": "SLEEPYSLEVE",
+            "material": "Cotton",
+            "checkout_url": "https://www.sleepysleve.com/product/2402800c8c76e1724678767"
+          }
+        }, 
+        {
+          "id": 5,
+          "name": "Grow Your Game",
+          "thumbnail": "https://minis-media-assets.swiggy.com/swiggymini/image/upload/IMAGE/87cdbf16-2b02-47af-af45-9ccf027927bf/8sPPF95tSpZZ8jgincb0f",
+          "price": 849,
+          "ex_price": 1099,
+          "discount_percentage": 22,
+          "tags": [],
+          "filter": [],
+          "date_added": "2024-09-15",
+          "images": [
+            "https://minis-media-assets.swiggy.com/swiggymini/image/upload/IMAGE/77f28ea8-f3ba-4ce5-9f50-dc0aa0324ef7/OORZHD4HMR2O-na3PWNDd"
+          ],
+          "description": "240 GSM: High-quality, medium-weight fabric that offers durability and comfort.\n\n100% Cotton Material: Made from pure cotton for a soft, breathable feel.\n\nPre-Shrunk: Ensures the garment retains its size and shape after washing.\n\nDouble Stitching: Reinforced stitching for added durability and longevity.\n\nSuper Combed Cotton: Enhanced softness and smoothness for maximum comfort.\n\nNo Colour Fading: Retains vibrant colors wash after wash.",
+          "labels": {
+            "color": "   ",
+            "category": "T-shirt",
+            "brand": "SLEEPYSLEVE",
+            "material": "Cotton",
+            "checkout_url": "https://shop.sleepysleve.com/product/2402806c8ca791724780838"
+          }
+        }, 
+        {
+          "id": 6,
+          "name": "Little Flower (Navy Blue)",
+          "thumbnail": "https://minis-media-assets.swiggy.com/swiggymini/image/upload/IMAGE/887b8ce7-56c1-4d5a-831b-b0529f0a3357/OG-wBxwG9HSzMUAjTWj0U-rn-image-picker-lib-temp-9812d941-7603-4305-abf3-7aef5a472b06.png",
+          "price": 979,
+          "ex_price": 1299,
+          "discount_percentage": 24,
+          "tags": [
+            "Bestseller"
+          ],
+          "filter": [
+            "Featured"
+          ],
+          "date_added": "2024-09-10",
+          "images": [
+            "https://minis-media-assets.swiggy.com/swiggymini/image/upload/IMAGE/8214a56f-0ca2-4828-9a0f-c86a2b261d46/p6U5i75Ct2MgZ9AjGoZhp-rn-image-picker-lib-temp-21701d8c-0a96-4926-b2b5-83818b228109.png",
+            "https://minis-media-assets.swiggy.com/swiggymini/image/upload/IMAGE/c5fa1137-1c01-467a-936c-65b3689d6765/D7B5lBW0Y0TpwpCXOypvT-rn-image-picker-lib-temp-e70ccf4d-d083-4eac-a60a-10096a963669.jpg"
+          ],
+          "description": "240 GSM: High-quality, medium-weight fabric that offers durability and comfort.\n\n100% Cotton Material: Made from pure cotton for a soft, breathable feel.\n\nPre-Shrunk: Ensures the garment retains its size and shape after washing.\n\nDouble Stitching: Reinforced stitching for added durability and longevity.\n\nSuper Combed Cotton: Enhanced softness and smoothness for maximum comfort.\n\nNo Colour Fading: Retains vibrant colors wash after wash.",
+          "labels": {
+            "color": "Navy Blue",
+            "category": "T-shirt",
+            "brand": "SLEEPYSLEVE",
+            "material": "Cotton",
+            "checkout_url": "https://shop.sleepysleve.com/product/2402818c8c9781724747103"
+          }
+        }, 
+        {
+          "id": 7,
+          "name": "Narcotic",
+          "thumbnail": "https://minis-media-assets.swiggy.com/swiggymini/image/upload/IMAGE/e9715571-ae66-4af5-b1c3-90de52b2512d/PJ1Mq2MtzzURXFNpln8h6-rn-image-picker-lib-temp-1d70c513-0172-4b74-99c9-7f4110558cf5.jpg",
+          "price": 849,
+          "ex_price": 1099,
+          "discount_percentage": 22,
+          "tags": [
+            "Bestseller"
+          ],
+          "filter": [
+            "Best selling"
+          ],
+          "date_added": "2024-09-03",
+          "images": [
+    "https://minis-media-assets.swiggy.com/swiggymini/image/upload/IMAGE/5b82cc7d-91d9-414b-adde-4cb4f415a68a/dDyiF-AIPTm45lvpUoyGI-rn-image-picker-lib-temp-930d8dab-064d-46e8-8673-72d21ef103a5.jpg","https://minis-media-assets.swiggy.com/swiggymini/image/upload/IMAGE/583c7140-d3de-4361-a7ef-151096176875/7REH1WOijAIrnBuabhhQh-rn-image-picker-lib-temp-9b02380b-56bc-4571-8c1f-34ffdd5a70ed.jpg", 
+    "https://minis-media-assets.swiggy.com/swiggymini/image/upload/IMAGE/9c4793a0-85b2-40ff-a80b-0a36b0f317e0/oXIktW4GWVqa3xJeN-na0-rn-image-picker-lib-temp-29a187d6-5b83-4540-ae28-0ce7fdf0a882.jpg"
+          ],
+          "description": "\n\n\n\n240 GSM: High-quality, medium-weight fabric that offers durability and comfort.\n\n100% Cotton Material: Made from pure cotton for a soft, breathable feel.\n\nPre-Shrunk: Ensures the garment retains its size and shape after washing.\n\nDouble Stitching: Reinforced stitching for added durability and longevity.\n\nSuper Combed Cotton: Enhanced softness and smoothness for maximum comfort.\n\nNo Colour Fading: Retains vibrant colors wash after wash.\n\n\n",
+          "labels": {
+            "color": "   ",
+            "category": "    ",
+            "brand": "SLEEPYSLEVE",
+            "material": "Cotton",
+            "checkout_url": "https://shop.sleepysleve.com/product/2402822c8c5591724608848"
+          }
+        }
     ]
-    }
+          }
