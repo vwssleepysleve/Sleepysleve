@@ -18,9 +18,10 @@
         "color": "White",
         "category": "T-shirts",
         "brand": "Sleepysleve",
-        "material": "cotton"
+        "material": "cotton", 
+          "checkout_url": "https://www.sleepysleve.com/product/240282ac8d26b1725047427"
       }
-    },
+            },
     {
       "id": 2,
       "name": "Enternal Bliss T-shirt",
