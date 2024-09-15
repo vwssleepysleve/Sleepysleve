@@ -653,16 +653,3 @@ header.sticky .icons .bi {
  * {
    -webkit-tap-highlight-color: transparent;
  }
- .image-frame {
-    display: inline-block;
-    padding: 0px; /* Space between the image and the frame */
-    border: 0px solid #000; /* Frame border */
-    background-color: white; /* Background color of the frame */
-    box-shadow: none /* Optional: to make it more professional */
-}
-
-.image-frame img {
-    display: block;
-    max-width: 100%;
-    height: auto; /* Ensures images scale proportionally */
-}
