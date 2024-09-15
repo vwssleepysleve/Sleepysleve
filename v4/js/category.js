@@ -87,17 +87,22 @@ function renderProducts(products) {
     productGrid.innerHTML = ''; // Clear previous products
 
     if (products.length === 0) {
-        productGrid.innerHTML = '<p>No products matching the selected criteria.</p>';
+        productGrid.innerHTML = `
+            <div class="no-products-container">
+                <p class="no-products-message">:/ No products matching the selected criteria.</p>
+                <button class="go-back-btn" onclick="goBack()">Go Back</button>
+            </div>
+        `;
     } else {
         products.forEach(product => {
             const productLink = document.createElement("a");
             productLink.href = `product.html?id=${product.id}&category=${category}`;
             productLink.classList.add("product-card");
 
-             productLink.innerHTML = `
-                            <div class="thumbnail-container">
-                                <img src="${product.thumbnail}" alt="${product.name}" loading="lazy">
-                            </div>
+            productLink.innerHTML = `
+                <div class="thumbnail-container">
+                    <img src="${product.thumbnail}" alt="${product.name}" loading="lazy">
+                </div>
                 <h2>${product.name}</h2>
                 <div class="price-container">
                     <p class="price">₹${product.price.toFixed(2)}</p>
@@ -111,6 +116,13 @@ function renderProducts(products) {
         });
     }
 }
+
+// Function to go back to the previous page
+function goBack() {
+    window.history.back(); // This will take the user back to the previous page
+}
+
+
 
 
     // Function to sort products
