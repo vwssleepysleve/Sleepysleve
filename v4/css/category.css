@@ -740,3 +740,50 @@ body {
  * {
    -webkit-tap-highlight-color: transparent;
  }
+
+
+/* Centering container */
+.no-products-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;width:45vh; /* Full viewport height */
+    text-align: center;
+    background-color: #FFFFFF; /* Light neutral background */
+    padding: 20px;
+}
+
+/* Styling the message */
+.no-products-message {
+    font-size: 22px;
+    color: #444; /* Soft, muted text color */
+    margin-bottom: 20px; /* Space between message and button */
+    font-family: 'Noto Sans', sans-serif; /* Clean, legible font */
+    letter-spacing: 0.5px;
+}
+
+/* Styling the Go Back button */
+.go-back-btn {
+    padding: 10px 25px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #556b2f; /* Earthy, muted green */
+    border: none;
+    border-radius: 3px; /* Subtle rounding for a simple look */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.go-back-btn:hover {
+    background-color: #6b8e23; /* Softer green on hover */
+}
+
+.go-back-btn:active {
+    background-color: #4e5920; /* Darker green on click */
+}
+
+/* Ensuring smooth page transitions */
+body {
+    transition: background-color 0.3s ease;
+}
