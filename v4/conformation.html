@@ -859,20 +859,20 @@ header {
             <div class="menu-list">
                 <ul>
                     <li><a href="/Sleepysleve/index.html">Home</a></li>
-                    <li><a href="/Sleepysleve/sleepysleve/v4/category.html?category=t-shirts">T-Shirts</a></li>
-                    <li><a href="/Sleepysleve/sleepysleve/v4/category.html?category=polos">Polo's</a></li>
-                    <li><a href="/Sleepysleve/sleepysleve/v4/category.html?category=hoodies">Hoodies</a></li>
-                    <li><a href="/Sleepysleve/sleepysleve/v4/category.html?category=sweatshirts">Sweatshirts</a></li>
-                    <li><a href="/Sleepysleve/sleepysleve/v4/cupons.html">Cupons</a></li>
+                    <li><a href="/Sleepysleve/Sleepysleve/v4/category.html?category=t-shirts">T-Shirts</a></li>
+                    <li><a href="/Sleepysleve/Sleepysleve/v4/category.html?category=polos">Polo's</a></li>
+                    <li><a href="/Sleepysleve/Sleepysleve/v4/category.html?category=hoodies">Hoodies</a></li>
+                    <li><a href="/Sleepysleve/Sleepysleve/v4/category.html?category=sweatshirts">Sweatshirts</a></li>
+                    <li><a href="/Sleepysleve/Sleepysleve/v4/cupons.html">Cupons</a></li>
                     <li><a href="https://www.instagram.com/sleepysleve?igsh=aGk5YjZkbHE1ejgz">Direct Messages</a></li>
-                    <li><a href="/Sleepysleve/sleepysleve/v4/contact-us.html">Contact Us</a></li>
-                    <li><a href="/Sleepysleve/sleepysleve/v4/about-us.html">About Us</a></li>
+                    <li><a href="/Sleepysleve/Sleepysleve/v4/contact-us.html">Contact Us</a></li>
+                    <li><a href="/Sleepysleve/Sleepysleve/v4/about-us.html">About Us</a></li>
                     <!-- Add more menu items if needed -->
                 </ul>
             </div>
             <div class="menu-permanent">
                 <div class="account-options">
-                    <a href="/Sleepysleve/sleepysleve/v4/accounts.html"><i class="bi bi-person"></i> My Account</a>
+                    <a href="/Sleepysleve/Sleepysleve/v4/accounts.html"><i class="bi bi-person"></i> My Account</a>
                 </div>
                 <div class="contact-email">
                     <a href="mailto:sleepysleve@gmail.com"><i class="bi bi-envelope"></i> sleepysleve@gmail.com</a>
@@ -908,12 +908,12 @@ header {
     <div class="footer-content">
         <div class="footer-section pages-section">
             <ul>
-                <li><a href="/Sleepysleve/sleepysleve/v4/privacy-policy.html">Privacy & Policy</a></li>
-                <li><a href="/Sleepysleve/sleepysleve/v4/refund-return-policy.html">Refund & Return Policy</a></li>
-                <li><a href="/Sleepysleve/sleepysleve/v4/shipping-policy.html">Shipping Policy</a></li>
+                <li><a href="/Sleepysleve/Sleepysleve/v4/privacy-policy.html">Privacy & Policy</a></li>
+                <li><a href="/Sleepysleve/Sleepysleve/v4/refund-return-policy.html">Refund & Return Policy</a></li>
+                <li><a href="/Sleepysleve/Sleepysleve/v4/shipping-policy.html">Shipping Policy</a></li>
 
-                <li><a href="/Sleepysleve/sleepysleve/v4/about-us.html">About Us</a></li>
-                <li><a href="/Sleepysleve/sleepysleve/v4/contact-us.html">Contact Us</a></li>
+                <li><a href="/Sleepysleve/Sleepysleve/v4/about-us.html">About Us</a></li>
+                <li><a href="/Sleepysleve/Sleepysleve/v4/contact-us.html">Contact Us</a></li>
                   <li><a href="/Sleepysleve/index.html">Home</a></li>
                 
             </ul>
@@ -928,7 +928,7 @@ header {
         </div>
         <hr class="section-divider">
         <div class="footer-section">
-            <p class="footer-copyright"><a href="/Sleepysleve/sleepysleve/v4/copyright.html" class="copyright-text">© 2024 SLEEPYSLEVE™</a></p>
+            <p class="footer-copyright"><a href="/Sleepysleve/Sleepysleve/v4/copyright.html" class="copyright-text">© 2024 SLEEPYSLEVE™</a></p>
         </div>
     </div>
 </footer>
@@ -969,14 +969,14 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
  document.getElementById('cart-icon').addEventListener('click', function() {
-      window.location.href = '/Sleepysleve/sleepysleve/v4/cart.html';
+      window.location.href = '/Sleepysleve/Sleepysleve/v4/cart.html';
     });
     // Checkout button functionality
     const checkoutButton = document.getElementById('checkoutButton');
     checkoutButton.addEventListener('click', () => {
         const cart = JSON.parse(localStorage.getItem('cart')) || [];
         localStorage.setItem('checkoutCart', JSON.stringify(cart));
-        window.location.href = '/Sleepysleve/sleepysleve/v4/checkout.html';
+        window.location.href = '/Sleepysleve/Sleepysleve/v4/checkout.html';
     });
 
 
@@ -984,7 +984,7 @@ document.addEventListener("DOMContentLoaded", function() {
     document.getElementById('search-button').addEventListener('click', function() {
   const query = document.getElementById('search-input').value.trim();
   if (query) {
-    window.location.href = `/Sleepysleve/sleepysleve/v4/search-results.html?query=${encodeURIComponent(query)}`;
+    window.location.href = `/Sleepysleve/Sleepysleve/v4/search-results.html?query=${encodeURIComponent(query)}`;
   }
 });
 
