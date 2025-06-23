@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
   // Fetch products from JSON files based on categories
   async function fetchProductsFromCategory(category) {
     try {
-      const response = await fetch(`/v4/data/${category}.json`);
+      const response = await fetch(`/sleepysleve/v4/data/${category}.json`);
       if (!response.ok) {
         throw new Error(`Failed to load ${category} products`);
       }
@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
       // Make the entire product card clickable
       productCard.addEventListener("click", function() {
-        const url = `/v4/product.html?id=${product.id}&category=${product.category}`;
+        const url = `/sleepysleve/v4/product.html?id=${product.id}&category=${product.category}`;
         window.location.href = url;
       });
 
@@ -121,14 +121,14 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 document.getElementById('cart-icon').addEventListener('click', function() {
-  window.location.href = '/v4/cart.html';
+  window.location.href = '/sleepysleve/v4/cart.html';
 });
 
     
     document.getElementById('search-button').addEventListener('click', function() {
   const query = document.getElementById('search-input').value.trim();
   if (query) {
-    window.location.href = `/v4/search-results.html?query=${encodeURIComponent(query)}`;
+    window.location.href = `/sleepysleve/v4/search-results.html?query=${encodeURIComponent(query)}`;
   }
 });
 

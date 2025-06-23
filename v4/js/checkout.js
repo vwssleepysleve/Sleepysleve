@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function() {
             checkoutItem.classList.add('checkout-item');
 
             checkoutItem.innerHTML = `
-                <span class="product-name" data-link="/v4/product.html?id=${item.id}&category=${item.category}">${item.name} (Size: ${item.size})</span>
+                <span class="product-name" data-link="/sleepysleve/v4/product.html?id=${item.id}&category=${item.category}">${item.name} (Size: ${item.size})</span>
                 <span>${item.quantity} x ₹${item.price.toFixed(2)}</span>
             `;
 
@@ -66,7 +66,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     const applyPromoCode = async () => {
         const promoCode = promoInput.value.trim();
-        const response = await fetch('/v4/data/Cupons/Cupons.json');
+        const response = await fetch('/sleepysleve/v4/data/Cupons/Cupons.json');
         const coupons = await response.json();
         const coupon = coupons.find(c => c.code === promoCode);
 
@@ -261,7 +261,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     size: item.size,
                     quantity: item.quantity,
                     price: item.price,
-                    link: `/v4/product.html?id=${item.id}&category=${item.category}`,
+                    link: `/sleepysleve/v4/product.html?id=${item.id}&category=${item.category}`,
                     thumbnail: item.thumbnail
                 })),
                 ipAddress: ipGeolocation.ip,
@@ -341,7 +341,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
     paymentDoneButton.addEventListener('click', () => {
-        handlePlaceOrder('/v4/conformation.html'); // Replace with the actual URL of the order confirmation page
+        handlePlaceOrder('/sleepysleve/v4/conformation.html'); // Replace with the actual URL of the order confirmation page
     });
 
     // Toggle dropdowns and close others when one is opened
@@ -404,7 +404,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const confirmOrderBtn = document.getElementById('confirm-order-btn');
 
   confirmOrderBtn.addEventListener('click', () => {
-    window.location.href = '/v4/conformation.html'; // Update this with your actual confirmation page URL
+    window.location.href = '/sleepysleve/v4/conformation.html'; // Update this with your actual confirmation page URL
   });
 });
 

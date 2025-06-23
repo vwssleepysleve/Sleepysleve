@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
  document.getElementById('cart-icon').addEventListener('click', function() {
-      window.location.href = '/v4/cart.html';
+      window.location.href = '/sleepysleve/v4/cart.html';
     });
     
     
@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", function() {
     document.getElementById('search-button').addEventListener('click', function() {
   const query = document.getElementById('search-input').value.trim();
   if (query) {
-    window.location.href = `/v4/search-results.html?query=${encodeURIComponent(query)}`;
+    window.location.href = `/sleepysleve/v4/search-results.html?query=${encodeURIComponent(query)}`;
   }
 });
 

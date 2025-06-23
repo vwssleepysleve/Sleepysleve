@@ -155,5 +155,5 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
  document.getElementById('cart-icon').addEventListener('click', function() {
-      window.location.href = '/v4/cart.html';
+      window.location.href = '/sleepysleve/v4/cart.html';
     });
