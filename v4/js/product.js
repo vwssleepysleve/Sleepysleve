@@ -420,7 +420,7 @@ document.addEventListener("DOMContentLoaded", function() {
         const renderGoToCartButton = () => {
             addToCartBtn.innerHTML = "GO TO CART";
             addToCartBtn.onclick = () => {
-                window.location.href = "/sleepysleve/v4/cart.html"; // Redirect to the cart page
+                window.location.href = "/Sleepysleve/v4/cart.html"; // Redirect to the cart page
             };
         };
 
@@ -515,7 +515,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 document.getElementById('cart-icon').addEventListener('click', function() {
-      window.location.href = '/sleepysleve/v4/cart.html';
+      window.location.href = '/Sleepysleve/v4/cart.html';
     });
 
 

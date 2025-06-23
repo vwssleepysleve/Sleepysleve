@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
             // Add event listener for clicking on the cart item to go to the product page
             cartItem.addEventListener('click', () => {
-                window.location.href = `/sleepysleve/v4/product.html?id=${item.id}&category=${item.category}`;
+                window.location.href = `/Sleepysleve/v4/product.html?id=${item.id}&category=${item.category}`;
             });
         });
     };
@@ -139,14 +139,14 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
  document.getElementById('cart-icon').addEventListener('click', function() {
-      window.location.href = '/sleepysleve/v4/cart.html';
+      window.location.href = '/Sleepysleve/v4/cart.html';
     });
     // Checkout button functionality
     const checkoutButton = document.getElementById('checkoutButton');
     checkoutButton.addEventListener('click', () => {
         const cart = JSON.parse(localStorage.getItem('cart')) || [];
         localStorage.setItem('checkoutCart', JSON.stringify(cart));
-        window.location.href = '/sleepysleve/v4/checkout.html';
+        window.location.href = '/Sleepysleve/v4/checkout.html';
     });
 
 
@@ -154,7 +154,7 @@ document.addEventListener("DOMContentLoaded", function() {
     document.getElementById('search-button').addEventListener('click', function() {
   const query = document.getElementById('search-input').value.trim();
   if (query) {
-    window.location.href = `/sleepysleve/v4/search-results.html?query=${encodeURIComponent(query)}`;
+    window.location.href = `/Sleepysleve/v4/search-results.html?query=${encodeURIComponent(query)}`;
   }
 });
 
